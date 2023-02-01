@@ -1,0 +1,20 @@
+
+p {
+  font-family: Calibri;}
+
+h1, h2 {
+  font-family: 'Courier New';
+  color: red;}
+
+body {
+  font-family: 'Calibri';}
+
+a:link {color: Red;text-decoration: none;}
+a:visited {color: green;}
+a:hover {color: red;}
+a:active {color: green;}
+
+
+tr:hover {color: light blue;}
+
+
